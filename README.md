@@ -6,6 +6,13 @@ BIOL 601
 
 The purpose of this repository is to provide a reference for conducting inferential statistics using R.  Included are all homework assignments containing an R component.  
 
+# HOW TO USE R
+
+1. Turn on computer
+2. Plug in keyboard
+3. Open a Jupyter notebook
+4. Code
+
 # INDEX
 
 ### Tests
@@ -49,7 +56,7 @@ subplots ([MR](MultipleRegression.ipynb))
 
 ANOVA tables ([HW07](Homework07.ipynb), [HW08](Homework08.ipynb), [HW09](Homework09.ipynb), [HW10](Homework10.ipynb))  
 blocks ([HW09](Homework09.ipynb))  
-burnham, anderson, and huyvaert (2011) ([HW10](Homework10.ipynb))  
+Burnham, Anderson, and Huyvaert (2011) ([HW10](Homework10.ipynb))  
 coefficient of determination, r2 ([HW07](Homework07.ipynb))  
 confidence intervals ([HW07](Homework07.ipynb), [HW10](Homework10.ipynb))  
 covariates ([HW09](Homework09.ipynb))  
