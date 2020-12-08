@@ -1,7 +1,3 @@
-# R Notebook
-Luke Telfer  
-BIOL 601  
-
 # PURPOSE
 
 The purpose of this repository is to provide a reference for conducting inferential statistics using R.  Included are all homework assignments containing an R component.  
@@ -66,6 +62,3 @@ pooled variance ([HW06](Homework06.ipynb))
 python ([HW04](Homework04.ipynb))  
 standard error ([HW07](Homework07.ipynb))  
 subset data ([HW05](Homework05.ipynb), [HW06](Homework06.ipynb), [HW10](Homework10.ipynb))  
-
-
-
